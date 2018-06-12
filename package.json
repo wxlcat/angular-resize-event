@@ -1,0 +1,59 @@
+{
+  "_from": "angular-resize-event",
+  "_id": "angular-resize-event@0.4.4",
+  "_inBundle": false,
+  "_integrity": "sha1-i8xcf5HsLFtFElIs7xfUOSqDvpk=",
+  "_location": "/angular-resize-event",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular-resize-event",
+    "name": "angular-resize-event",
+    "escapedName": "angular-resize-event",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/angular-resize-event/download/angular-resize-event-0.4.4.tgz",
+  "_shasum": "8bcc5c7f91ec2c5b4512522cef17d4392a83be99",
+  "_spec": "angular-resize-event",
+  "_where": "/Users/wxl/Workplace/CellLink/test/mining-app",
+  "author": {
+    "name": "Martin Volek",
+    "email": "martin@vdolek.cz"
+  },
+  "bugs": {
+    "url": "https://github.com/vdolek/angular-resize-event/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "css-element-queries": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "Angular 5 directive for detecting changes of an element size.",
+  "homepage": "https://github.com/vdolek/angular-resize-event#readme",
+  "jsnext:main": "angular-resize-event.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "main": "angular-resize-event.umd.js",
+  "module": "angular-resize-event.js",
+  "name": "angular-resize-event",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdolek/angular-resize-event.git"
+  },
+  "typings": "angular-resize-event.d.ts",
+  "version": "0.4.4"
+}
